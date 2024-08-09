@@ -1,0 +1,47 @@
+[
+    {
+        "model": "network.product",
+        "pk": 1,
+        "fields": {
+            "name": "Product A",
+            "model": "Model A",
+            "release_date": "2024-01-01"
+        }
+    },
+    {
+        "model": "network.product",
+        "pk": 2,
+        "fields": {
+            "name": "Product B",
+            "model": "Model B",
+            "release_date": "2024-02-01"
+        }
+    },
+    {
+        "model": "network.product",
+        "pk": 3,
+        "fields": {
+            "name": "Product C",
+            "model": "Model C",
+            "release_date": "2024-03-01"
+        }
+    },
+    {
+        "model": "network.product",
+        "pk": 4,
+        "fields": {
+            "name": "Product D",
+            "model": "Model D",
+            "release_date": "2024-04-01"
+        }
+    },
+    {
+        "model": "network.product",
+        "pk": 5,
+        "fields": {
+            "name": "Product E",
+            "model": "Model E",
+            "release_date": "2024-05-01"
+        }
+    }
+]

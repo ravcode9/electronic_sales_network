@@ -1,0 +1,67 @@
+[
+    {
+        "model": "network.networknode",
+        "pk": 1,
+        "fields": {
+            "name": "Node 1",
+            "contact_info": [1],
+            "products": [1],
+            "supplier": null,
+            "debt": "100.00",
+            "created_at": "2024-08-09T10:00:00",
+            "level": 0
+        }
+    },
+    {
+        "model": "network.networknode",
+        "pk": 2,
+        "fields": {
+            "name": "Node 2",
+            "contact_info": [2, 3],
+            "products": [1, 2],
+            "supplier": 1,
+            "debt": "200.00",
+            "created_at": "2024-08-09T11:00:00",
+            "level": 1
+        }
+    },
+    {
+        "model": "network.networknode",
+        "pk": 3,
+        "fields": {
+            "name": "Node 3",
+            "contact_info": [4, 5],
+            "products": [3],
+            "supplier": 2,
+            "debt": "300.00",
+            "created_at": "2024-08-09T12:00:00",
+            "level": 2
+        }
+    },
+    {
+        "model": "network.networknode",
+        "pk": 4,
+        "fields": {
+            "name": "Node 4",
+            "contact_info": [],
+            "products": [4],
+            "supplier": null,
+            "debt": "400.00",
+            "created_at": "2024-08-09T13:00:00",
+            "level": 0
+        }
+    },
+    {
+        "model": "network.networknode",
+        "pk": 5,
+        "fields": {
+            "name": "Node 5",
+            "contact_info": [1],
+            "products": [5],
+            "supplier": 3,
+            "debt": "500.00",
+            "created_at": "2024-08-09T14:00:00",
+            "level": 1
+        }
+    }
+]

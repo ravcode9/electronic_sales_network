@@ -1,0 +1,57 @@
+[
+    {
+        "model": "network.contactinfo",
+        "pk": 1,
+        "fields": {
+            "email": "contact1@example.com",
+            "country": "Country A",
+            "city": "City A",
+            "street": "Street A",
+            "house_number": "10A"
+        }
+    },
+    {
+        "model": "network.contactinfo",
+        "pk": 2,
+        "fields": {
+            "email": "contact2@example.com",
+            "country": "Country B",
+            "city": "City B",
+            "street": "Street B",
+            "house_number": "20B"
+        }
+    },
+    {
+        "model": "network.contactinfo",
+        "pk": 3,
+        "fields": {
+            "email": "contact3@example.com",
+            "country": "Country C",
+            "city": "City C",
+            "street": "Street C",
+            "house_number": "30C"
+        }
+    },
+    {
+        "model": "network.contactinfo",
+        "pk": 4,
+        "fields": {
+            "email": "contact4@example.com",
+            "country": "Country D",
+            "city": "City D",
+            "street": "Street D",
+            "house_number": "40D"
+        }
+    },
+    {
+        "model": "network.contactinfo",
+        "pk": 5,
+        "fields": {
+            "email": "contact5@example.com",
+            "country": "Country E",
+            "city": "City E",
+            "street": "Street E",
+            "house_number": "50E"
+        }
+    }
+]
