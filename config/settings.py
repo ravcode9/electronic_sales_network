@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'corsheaders',
     'drf_yasg',
-    'redoc',
 
     'network',
     'users',
